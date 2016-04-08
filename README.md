@@ -6,8 +6,9 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 ## Graphics
  * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
-## Media Players
+## Web
  * [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser
+ * [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures
 
 ## Downloaders
  * [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](http://www.pixiv.net/)
