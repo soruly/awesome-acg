@@ -7,6 +7,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
  * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Web
+ * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash
  * [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser
  * [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures
 
