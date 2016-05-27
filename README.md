@@ -22,7 +22,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
  * Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines
  * [ascii2d](http://www.ascii2d.net/) - 二次元画像詳細検索
  * [Gochiusearch](https://github.com/ksasao/Gochiusearch) - A Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'
- * [WAIT: What Anime Is This?](https://whatanime.ga/) - Anime scene search engine for most anime since 2000. Built using [LireSolr](https://bitbucket.org/dermotte/liresolr). Chrome Extension available [here](https://github.com/soruly/whatanime.ga-Chrome-Extension)
+ * [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine for most anime since 2000. Built using [LireSolr](https://bitbucket.org/dermotte/liresolr). Chrome Extension available [here](https://github.com/soruly/whatanime.ga-Chrome-Extension)
 
 ## Machine Learning / AI
  * [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
