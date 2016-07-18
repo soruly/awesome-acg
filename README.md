@@ -6,6 +6,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 ## Tools
  * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
  * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format
+ * [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking)
 
 ## Web
  * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash
