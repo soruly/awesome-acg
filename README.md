@@ -3,8 +3,9 @@ A curated list of awesome technologies related to anime, comics, games, light no
 
 Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 
-## Graphics
+## Tools
  * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+ * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format
 
 ## Web
  * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash
