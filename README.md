@@ -8,6 +8,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
  * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format
  * [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking)
  * [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js
+ * [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser
 
 ## Web
  * [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player
