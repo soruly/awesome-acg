@@ -1,4 +1,4 @@
-# awsome-acg
+# awesome-acg
 A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
 
 Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
