@@ -11,6 +11,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
  * [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser
 
 ## Web
+ * [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
  * [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player
  * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
  * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash
