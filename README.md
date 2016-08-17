@@ -9,6 +9,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
  * [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking)
  * [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js
  * [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser
+ * [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 
 ## Web
  * [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
