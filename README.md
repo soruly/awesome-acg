@@ -34,6 +34,8 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
 * [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser
 * [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player
+* [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
+* [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
 
 ## Tools
 * [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser
@@ -59,3 +61,4 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Anilist API](https://github.com/joshstar/AniList-API-Docs) Official API for Anilist (https://anilist.co/)
 * [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) Unofficial API for [MyAnimeList](http://myanimelist.net/)
 * [Vocaloid Database](https://github.com/VocaDB/vocadb) Server software used by [vocadb.net](http://vocadb.net/)
+* [Bangumi Data](https://github.com/bangumi-data/bangumi-data) Raw data for Japanese Anime
