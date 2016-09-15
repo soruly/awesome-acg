@@ -25,6 +25,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
 * [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js
 * [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
+* [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 
 ## Audio
 * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash
