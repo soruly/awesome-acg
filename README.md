@@ -42,6 +42,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking)
 * [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 * [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
+* [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 
 ## Web
 * [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
