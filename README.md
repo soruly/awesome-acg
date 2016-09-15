@@ -7,6 +7,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 * [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs
 * [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality
+* [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. Powered by [OpenCV](https://github.com/opencv/opencv)
 
 ## Image Recognition
 * [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
