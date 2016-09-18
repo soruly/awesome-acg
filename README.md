@@ -22,6 +22,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [ascii2d](http://www.ascii2d.net/) - 二次元画像詳細検索
 * [Gochiusearch](https://github.com/ksasao/Gochiusearch) - A Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'
 * [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine for most anime since 2000. Built using [LireSolr](https://bitbucket.org/dermotte/liresolr). WebExtension available [here](https://github.com/soruly/whatanime.ga-WebExtension)
+* [AnimeShot](https://as.bitinn.net/) - An open and searchable image repository, use subtitle to find anime scene, source code [here](https://github.com/bitinn/animeshot)
 
 ## Image Board / Search
 * [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
