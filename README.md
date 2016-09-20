@@ -56,6 +56,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/)
 * [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - A tool for downloading some comics and light novels from China
 * [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch
+* [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web
 
 ## Mobile Apps
 * [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/)
