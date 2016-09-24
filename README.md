@@ -1,7 +1,10 @@
-# awesome-acg
-A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
+# awesome-acg [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid.
 
 Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
+
+
 
 ## Image Processing
 * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
