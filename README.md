@@ -59,8 +59,11 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web
 
 ## Mobile Apps
+* [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 * [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/)
 * [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android
+* [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
+
 
 ## Databases / Anime List
 * [Anilist API](https://github.com/joshstar/AniList-API-Docs) - Official API for Anilist (https://anilist.co/)
