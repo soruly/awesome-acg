@@ -64,7 +64,6 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android
 * [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 
-
 ## Databases / Anime List
 * [Anilist API](https://github.com/joshstar/AniList-API-Docs) - Official API for Anilist (https://anilist.co/)
 * [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/)
