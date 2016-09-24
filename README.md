@@ -15,7 +15,7 @@ Inspired by some [Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Image Recognition
 * [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
-* [Illustration2Vec](http://illustration2vec.net/) - A Semantic Vector Representation of Illustrations
+* [Illustration2Vec](https://github.com/rezoo/illustration2vec) - A Semantic Vector Representation of Illustrations
 * [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama)
 
 ## Image / Video Reverse Search
