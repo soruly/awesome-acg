@@ -67,6 +67,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Subtitles / Danmaku
 
+* [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5.
 * [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
 * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
 * [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
