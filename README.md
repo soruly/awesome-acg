@@ -8,6 +8,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash.
 
+## Danmaku
+
+* [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5.
+* [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
+* [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
+* [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format.
+* [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player.
+
 ## Downloaders
 
 * [Albireo](https://github.com/lordfriend/Albireo) - A bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
@@ -65,16 +73,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 * [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 
-## Subtitles / Danmaku
-
-* [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5.
-* [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
-* [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
-* [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
-* [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format.
-* [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player.
-* [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
-
 ## Tools
 
 * [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
@@ -85,7 +83,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Web
 
+* [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
 * [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
+* [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
 * [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 * [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
