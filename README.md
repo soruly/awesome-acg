@@ -10,9 +10,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Downloaders
 
+* [Albireo](https://github.com/lordfriend/Albireo) - A bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
 * [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
 * [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
-* [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X
+* [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
 * [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - A tool for downloading some comics and light novels from China.
 * [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](http://www.pixiv.net/).
 * [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
