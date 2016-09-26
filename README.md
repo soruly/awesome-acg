@@ -84,6 +84,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Web
 
+* [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
 * [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 * [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
