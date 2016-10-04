@@ -4,6 +4,22 @@ A curated list of awesome technologies related to anime, comics, games, light no
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/soruly/awesome-acg/blob/master/CONTRIBUTING.md) first.
 
+## Contents
+
+- [Audio](#audio)
+- [Danmaku](#danmaku)
+- [Downloaders](#downloaders)
+- [Databases / Data Sources](#databases--data-sources)
+- [Image Board](#image-board)
+- [Image Processing](#image-processing)
+- [Image Recognition](#image-recognition)
+- [Image Reverse Search](#image-reverse-search)
+- [Mobile Apps](#mobile-apps)
+- [Programming Languages](#programming-languages)
+- [Tools](#tools)
+- [Web](#web)
+- [Uncategorized](#uncategorized)
+
 ## Audio
 
 * [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash.
