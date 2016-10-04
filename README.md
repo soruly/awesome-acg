@@ -91,4 +91,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
+* [gochiusa_lang](https://github.com/dolciss/gochiusa_lang) - ご注文はプログラミング言語ですか？
 * [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
+* [nyaruko_lang](https://github.com/masarakki/nyaruko_lang) - いつもニコニコあなたの隣に這いよる混沌ニャルラトホテプ言語ですっ
