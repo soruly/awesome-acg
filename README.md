@@ -90,7 +90,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 
 ## Programming Languages
-*These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck)*
+*These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
 
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang) - ご注文はプログラミング言語ですか？
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang) - Brainfuck系言語です
@@ -117,3 +117,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Uncategorized
 
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
+- [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
