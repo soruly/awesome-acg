@@ -4,6 +4,7 @@ A curated list of awesome tools and projects related to anime, comics, games, li
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/soruly/awesome-acg/blob/master/CONTRIBUTING.md) first.
 
+
 ## Contents
 
 - [Audio](#audio)
@@ -18,11 +19,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
 - [Web](#web)
-- [Uncategorized](#uncategorized)
+- [Utilities](#utilities)
+
 
 ## Audio
 
 - [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash.
+
 
 ## Danmaku
 
@@ -31,6 +34,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
 - [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format.
 - [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player.
+
 
 ## Downloaders
 
@@ -42,6 +46,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](http://www.pixiv.net/).
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
 
+
 ## Databases / Data Sources
 
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/).
@@ -52,12 +57,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
+
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
 - [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
+
 
 ## Image Processing
 
@@ -67,11 +74,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - An improved version of waifu2x.
 
+
 ## Image Recognition
 
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - A Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
+
 
 ## Image Reverse Search
 
@@ -82,12 +91,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
 - [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [LireSolr](https://bitbucket.org/dermotte/liresolr).
 
+
 ## Mobile Apps
 
 - [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+
 
 ## Programming Languages
 *These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck)*
@@ -97,14 +108,17 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang) - いつもニコニコあなたの隣に這いよる混沌ニャルラトホテプ言語ですっ
 - [We-i_lang](https://github.com/oppai/We-i_lang) - うぇーいｗｗｗ
 
+
 ## Tools
+*Here are tools for programmer.*
 
 - [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
-- [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
+- [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - Analyze the data related to the animation from wikipedia.
+
 
 ## Web
 
@@ -114,6 +128,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
-## Uncategorized
+
+## Utilities
+*Here are tools for general human.*
 
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
+- [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
