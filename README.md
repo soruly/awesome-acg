@@ -19,6 +19,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Tools](#tools)
 - [Web](#web)
 - [Uncategorized](#uncategorized)
+- [Developer Groups](#developer-groups)
 
 ## Audio
 
@@ -118,3 +119,29 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 - [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
+
+## Developer Groups
+*Some chat rooms or channels of ACG-loving developers*
+
+- AniDevTwitter (English)
+  - https://github.com/AniDevTwitter
+  - irc://irc.rizon.net/AniDevTwitter
+  - https://twitter.com/search?q=%23AniDevTwitter
+
+- Fuyu (English)
+  - https://fuyu.moe/
+  - irc://irc.rizon.net/Fuyu  
+  
+- IQDB / SauceNao (English)
+  - https://iqdb.org/
+  - irc://irc.rizon.net/iqdb
+  
+- MoeOverflow (Chinese)
+  - https://moeoverflow.com/
+  - https://telegram.me/moeoverflow
+  - https://github.com/moeoverflow
+  
+- Project ShangriLa (Japanese)
+  - http://akibalab.info/
+  - https://github.com/Project-ShangriLa
+  
