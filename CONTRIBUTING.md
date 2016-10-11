@@ -19,8 +19,9 @@ It's hard to define what is related and what is not. When in doubt, just open an
 
 - Use the following format: `- [project-name](https://example.com) - Description.`
 - Follow the original capitalization of the name of the project (no need to covert letter case).
+- Description is optional.
 - Descriptions begin with a capital letter, and end with a period.
-- The descriptions should be either in english or japanese.
+- The descriptions should be either in english or japanese (if any).
 - Remove trailing whitespace.
 - Links and categories should be sorted alphabetically.
 - Add one link per pull-request.
