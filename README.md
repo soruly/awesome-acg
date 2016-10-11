@@ -93,10 +93,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Programming Languages
 *These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
 
-- [gochiusa_lang](https://github.com/dolciss/gochiusa_lang) - ご注文はプログラミング言語ですか？
-- [hhiro_lang](https://github.com/zonuexe/hhiro_lang) - Brainfuck系言語です
-- [nyaruko_lang](https://github.com/masarakki/nyaruko_lang) - いつもニコニコあなたの隣に這いよる混沌ニャルラトホテプ言語ですっ
-- [We-i_lang](https://github.com/oppai/We-i_lang) - うぇーいｗｗｗ
+- [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
+- [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
+- [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
+- [We-i_lang](https://github.com/oppai/We-i_lang)
 
 ## Tools
 
