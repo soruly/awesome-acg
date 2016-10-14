@@ -87,6 +87,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
+- [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net)
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 
