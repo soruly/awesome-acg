@@ -107,6 +107,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
+- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
 
 ## Web
