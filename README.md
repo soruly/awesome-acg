@@ -64,6 +64,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Image Processing
 
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
+- [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
