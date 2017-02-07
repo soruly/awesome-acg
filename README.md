@@ -149,6 +149,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
   - https://telegram.me/moeoverflow
   - https://github.com/moeoverflow
   
+- MoeFront (Chinese)
+  - https://moefront.github.io/
+  - https://github.com/moefront
+  
 - Project ShangriLa (Japanese)
   - http://akibalab.info/
   - https://github.com/Project-ShangriLa
