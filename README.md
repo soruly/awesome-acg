@@ -101,6 +101,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
+- [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
 - [We-i_lang](https://github.com/oppai/We-i_lang)
 
