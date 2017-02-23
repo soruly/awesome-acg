@@ -126,7 +126,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
-- [kemonogen](https://aratama.github.io/kemonogen/) - Generate text with style like kemono friends.
+- [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 - [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
 
