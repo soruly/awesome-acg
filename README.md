@@ -129,6 +129,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
 - [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
+- [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 - [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
 
 ## Developer Groups
