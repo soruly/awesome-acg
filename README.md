@@ -121,6 +121,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
 - [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
 - [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
+- [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
