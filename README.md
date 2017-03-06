@@ -53,6 +53,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
+- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
