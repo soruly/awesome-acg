@@ -109,6 +109,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Tools
 
+- [aeneas](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text.
 - [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
