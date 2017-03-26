@@ -124,6 +124,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Web
 
 - [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
+- [Bangumi scripts](https://github.com/bangumi/scripts) - A collection of user scripts for [bangumi.tv](http://bangumi.tv).
 - [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
 - [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
 - [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
