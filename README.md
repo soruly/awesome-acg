@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/).
 - [Anilist API](https://github.com/joshstar/AniList-API-Docs) - Official API for Anilist (https://anilist.co/).
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
+- [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
 - [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
