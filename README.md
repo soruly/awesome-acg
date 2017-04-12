@@ -118,6 +118,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
+- [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
 - [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
 - [Taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows.
