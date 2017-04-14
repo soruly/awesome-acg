@@ -110,9 +110,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
 - [We-i_lang](https://github.com/oppai/We-i_lang)
 
-## Tools
+## Subtitles
 
 - [aeneas](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text.
+- [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
+- [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
+- [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
+- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
+
+## Tools
+
 - [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
@@ -120,17 +127,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
-- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
 - [Taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
 
 ## Web
 
-- [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
 - [Bangumi scripts](https://github.com/bangumi/scripts) - A collection of user scripts for [bangumi.tv](http://bangumi.tv).
 - [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
-- [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
-- [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
