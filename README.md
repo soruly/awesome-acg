@@ -16,6 +16,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Image Reverse Search](#image-reverse-search)
 - [Mobile Apps](#mobile-apps)
 - [Programming Languages](#programming-languages)
+- [Subtitiles](#subtitles)
 - [Tools](#tools)
 - [Web](#web)
 - [Uncategorized](#uncategorized)
@@ -48,10 +49,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/).
 - [Anilist API](https://github.com/joshstar/AniList-API-Docs) - Official API for Anilist (https://anilist.co/).
+- [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
+- [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
 - [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
+- [一言（ヒトコト）](http://hitokoto.us/) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
+- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
@@ -66,7 +71,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
+- [animeloop](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
+- [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - An improved version of waifu2x.
 
@@ -83,12 +90,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines.
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/).
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
+- [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - A better front-end for SauceNAO.
 - [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [LireSolr](https://bitbucket.org/dermotte/liresolr).
 
 ## Mobile Apps
 
 - [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
+- [EhViewer](https://github.com/seven332/EhViewer) - An Unofficial E-Hentai Application for Android.
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net).
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
@@ -98,31 +107,47 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
+- [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
 - [We-i_lang](https://github.com/oppai/We-i_lang)
+
+## Subtitles
+
+- [aeneas](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text.
+- [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
+- [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
+- [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
+- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
 
 ## Tools
 
 - [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
+- [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
+- [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
-- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
+- [Taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
 
 ## Web
 
-- [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
+- [Bangumi scripts](https://github.com/bangumi/scripts) - A collection of user scripts for [bangumi.tv](http://bangumi.tv).
 - [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
-- [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
+- [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
+- [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
 ## Uncategorized
 
+- [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
+- [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
+- [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
+- [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
-- [大藏游星的近月计划](https://zhuanlan.zhihu.com/p/22166577) - Introduction to ACG production process, and more.
+- [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 
 ## Developer Groups
 *Some chat rooms or channels of ACG-loving developers*
@@ -144,6 +169,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
   - https://moeoverflow.com/
   - https://telegram.me/moeoverflow
   - https://github.com/moeoverflow
+  
+- MoeFront (Chinese)
+  - https://moefront.github.io/
+  - https://github.com/moefront
   
 - Project ShangriLa (Japanese)
   - http://akibalab.info/
