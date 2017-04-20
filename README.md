@@ -146,6 +146,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
 - [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
+- [nKemono](https://github.com/cornguo/nKemono) - WebExtension to replaces all images with Kemono Friends.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 - [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 
