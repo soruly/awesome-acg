@@ -144,7 +144,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
-- [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
+- [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
 - [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
