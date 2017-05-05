@@ -65,6 +65,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
+- [atogatari](https://atogatari.com) - Share and discover your favorite anime characters. [Source Code](https://github.com/kingdido999/atogatari)
 
 ## Image Processing
 
