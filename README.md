@@ -67,7 +67,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
-- [atogatari](https://atogatari.com) - Share and discover your favorite anime characters. [Source Code](https://github.com/kingdido999/atogatari)
 - [五站tag表](https://tieba.baidu.com/p/1428468676) - Chinese ⇔ Engish translation table for tags. Great guide for beginners.
 
 ## Image Processing
