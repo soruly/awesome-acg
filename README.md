@@ -54,18 +54,19 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
+- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [一言（ヒトコト）](http://hitokoto.us/) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
-- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
+- [nyaa](https://github.com/ewhal/nyaa) - Nyaa.se replacement written in golang.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
 - [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
+- [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
-- [atogatari](https://atogatari.com) - Share and discover your favorite anime characters. [Source Code](https://github.com/kingdido999/atogatari)
 
 ## Image Processing
 
