@@ -66,7 +66,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
-- [Moebooru](https://github.com/moebooru/moebooru) - A fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re) , [Konachan.com](http://konachan.com/).
+- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
+- [Moebooru](https://github.com/moebooru/moebooru) - A fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 
 ## Image Processing
