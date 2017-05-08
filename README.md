@@ -69,7 +69,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
 - [Moebooru](https://github.com/moebooru/moebooru) - A fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
-- [yande.re](https://yande.re) - A [Moebooru](https://github.com/moebooru/moebooru) instance.
 - [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for tags. Great guide for beginners.
 
 ## Image Processing
