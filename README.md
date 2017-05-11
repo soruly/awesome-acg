@@ -96,7 +96,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/).
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
 - [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - A better front-end for SauceNAO.
-- [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [LireSolr](https://bitbucket.org/dermotte/liresolr).
+- [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr).
 
 ## Mobile Apps
 
