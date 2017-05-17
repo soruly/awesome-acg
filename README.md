@@ -149,6 +149,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
+- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
