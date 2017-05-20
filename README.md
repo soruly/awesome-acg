@@ -57,7 +57,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [一言（ヒトコト）](http://hitokoto.us/) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
-- [nyaa](https://github.com/ewhal/nyaa) - Nyaa.se replacement written in golang.
+- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
