@@ -59,6 +59,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
+- [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
