@@ -54,17 +54,23 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Atarashii API](https://bitbucket.org/ratan12/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
+- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [一言（ヒトコト）](http://hitokoto.us/) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
-- [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
+- [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
+- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
 - [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
+- [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
+- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
+- [Moebooru](https://github.com/moebooru/moebooru) - A fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
+- [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags.
 
 ## Image Processing
 
@@ -91,7 +97,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/).
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
 - [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - A better front-end for SauceNAO.
-- [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [LireSolr](https://bitbucket.org/dermotte/liresolr).
+- [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr).
 
 ## Mobile Apps
 
@@ -144,8 +150,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
-- [kemonogen](https://aratama.github.io/kemonogen/) - Kemono Friends logo generator.
+- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
+- [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
+- [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
+- [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
+- [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 - [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 
