@@ -21,6 +21,7 @@ It's hard to define what is related and what is not. When in doubt, just open an
 - Follow the original capitalization of the name of the project (no need to covert letter case).
 - Description is optional.
 - Descriptions begin with a capital letter, and end with a period.
+- Drop all the A / An prefixes in the descriptions.
 - The descriptions should be either in english or japanese (if any).
 - Remove trailing whitespace.
 - Links and categories should be sorted alphabetically.
