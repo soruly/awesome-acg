@@ -30,17 +30,17 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5.
 - [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation.
-- [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine.
+- [Danmaku](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine.
 - [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format.
 - [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player.
 
 ## Downloaders
 
-- [Albireo](https://github.com/lordfriend/Albireo) - A bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
+- [Albireo](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
 - [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
-- [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - A tool for downloading some comics and light novels from China.
+- [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China.
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party nodejs api for [Pixiv](https://www.pixiv.net/). 
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
@@ -65,11 +65,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
-- [animeshot](https://github.com/bitinn/animeshot) - An open and searchable image repository in Node.js.
+- [animeshot](https://github.com/bitinn/animeshot) - Open and searchable image repository in Node.js.
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
-- [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - A consistent and space-efficient interface to Booru-like image boards.
-- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
-- [Moebooru](https://github.com/moebooru/moebooru) - A fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
+- [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards.
+- [danbooru](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
+- [Moebooru](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 - [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags.
 
@@ -82,29 +82,29 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
-- [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - An improved version of waifu2x.
+- [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
 
 ## Image Recognition
 
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
-- [Illustration2Vec](https://github.com/rezoo/illustration2vec) - A Semantic Vector Representation of Illustrations.
+- [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
 
 ## Image Reverse Search
 
 - [ascii2d](http://www.ascii2d.net/) - 二次元画像詳細検索.
-- [Gochiusearch](https://github.com/ksasao/Gochiusearch) - A Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'.
+- [Gochiusearch](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'.
 - Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines.
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/).
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
-- [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - A better front-end for SauceNAO.
+- [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO.
 - [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr).
 
 ## Mobile Apps
 
 - [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
-- [EhViewer](https://github.com/seven332/EhViewer) - An Unofficial E-Hentai Application for Android.
+- [EhViewer](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android.
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net).
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
@@ -121,10 +121,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Subtitles
 
 - [aeneas](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text.
-- [ASS.js](https://github.com/weizhenye/ASS) - A JavaScript ASS subtitle format renderer.
+- [ASS.js](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer.
 - [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
 - [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
-- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - A tool set to help checking and organizing bilingual subtitles (諸神字幕組).
+- [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組).
 
 ## Tools
 
@@ -133,20 +133,20 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
 - [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
-- [kuroshiro.js](https://github.com/hexenq/kuroshiro.js) - A japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
-- [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese.
+- [kuroshiro.js](https://github.com/hexenq/kuroshiro.js) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
+- [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
-- [Taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows.
+- [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
 
 ## Web
 
-- [Bangumi scripts](https://github.com/bangumi/scripts) - A collection of user scripts for [bangumi.tv](http://bangumi.tv).
-- [Deneb](https://github.com/lordfriend/Deneb) - A web client for [Albireo](https://github.com/lordfriend/Albireo).
+- [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv).
+- [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo).
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
-- [WebLive2D](https://github.com/yutarochan/WebLive2D) - A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
+- [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
 
 ## Uncategorized
 
