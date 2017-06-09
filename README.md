@@ -60,6 +60,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
+- [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
 
 ## Image Board
 
@@ -77,7 +78,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
-- [animeloop](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
+- [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
@@ -131,7 +132,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
-- [hentaibook](https://github.com/MoeOverflow/hentaibook) - Convert dolijinshi comic on e-hentai.org and nhentai.net to EPUB file.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
 - [Taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows.
@@ -170,21 +170,21 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - Fuyu (English)
   - https://fuyu.moe/
   - irc://irc.rizon.net/Fuyu  
-  
+
 - IQDB / SauceNao (English)
   - https://iqdb.org/
   - irc://irc.rizon.net/iqdb
-  
+
 - MoeOverflow (Chinese)
-  - https://moeoverflow.com/
+  - https://moeoverflow.org/
   - https://telegram.me/moeoverflow
   - https://github.com/moeoverflow
-  
+
 - MoeFront (Chinese)
   - https://moefront.github.io/
   - https://github.com/moefront
-  
+
 - Project ShangriLa (Japanese)
   - http://akibalab.info/
   - https://github.com/Project-ShangriLa
-  
+
