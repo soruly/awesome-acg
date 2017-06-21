@@ -157,7 +157,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
-- [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg.
+- [Moelib](https://moelib.github.io) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg.
 - [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
 - [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
