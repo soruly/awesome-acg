@@ -81,6 +81,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
+- [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
