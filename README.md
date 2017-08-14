@@ -80,6 +80,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
+- [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
