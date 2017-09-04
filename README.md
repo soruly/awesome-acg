@@ -94,6 +94,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
+- [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san.
+- [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/174603) - Use deep learning to distinguish the characters in Osomatsu-san (part 2).
 
 ## Image Reverse Search
 
