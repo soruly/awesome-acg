@@ -25,6 +25,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Audio
 
 - [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash.
+- [moefm.sh](https://github.com/mike2718/moefm.sh) - 萌否电台bash脚本客户端。
 
 ## Danmaku
 
