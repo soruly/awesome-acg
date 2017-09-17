@@ -111,7 +111,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Mobile Apps
 
-- [Akhyou](https://github.com/dulleh/akhyou) - Anime streaming app for Android.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
 - [EhViewer](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android.
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net).
