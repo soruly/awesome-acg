@@ -94,6 +94,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Recognition
 
+- [alt-i2v](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer.
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
