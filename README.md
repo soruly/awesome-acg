@@ -155,6 +155,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Web
 
 - [acgn-stock](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan).
+- [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects.
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv).
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo).
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
