@@ -52,8 +52,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Databases / Data Sources
 
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/).
-- [Anilist API](https://github.com/joshstar/AniList-API-Docs) - Official API for Anilist (https://anilist.co/).
-- [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Pre-release version on Anilist API.
+- [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for Anilist (https://anilist.co/).
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
