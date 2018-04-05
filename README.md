@@ -163,6 +163,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
+- [My Diary](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」 ( build with Vue 2 )
 
 ## Uncategorized
 
