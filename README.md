@@ -117,6 +117,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Mobile Apps
 
+- [Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/).
 - [EhViewer](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android.
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net).
