@@ -66,6 +66,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
+- [nyaa-ddl](https://github.com/z7i/nyaa-ddl) - Nyaa.si Written by PHP and this not torrent its DDL
 
 ## Image Board
 
