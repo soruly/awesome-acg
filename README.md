@@ -43,11 +43,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
+- [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file.
 - [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China.
+- [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort.
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). 
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
-- [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort.
 
 ## Databases / Data Sources
 
