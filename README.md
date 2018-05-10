@@ -128,6 +128,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Programming Languages
 *These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
 
+- [aaencoder](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字).
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
 - [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
