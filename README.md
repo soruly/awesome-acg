@@ -92,6 +92,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
+- [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints.
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
