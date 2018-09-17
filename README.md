@@ -89,6 +89,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
+- [MangaCraft](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization.
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
