@@ -62,6 +62,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
+- [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/).
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
