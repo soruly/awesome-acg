@@ -72,7 +72,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
-- [animeshot](https://github.com/bitinn/animeshot) - Open and searchable image repository in Node.js.
+- [animeshot2](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js.
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards.
 - [danbooru](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
