@@ -16,7 +16,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Image Reverse Search](#image-reverse-search)
 - [Mobile Apps](#mobile-apps)
 - [Programming Languages](#programming-languages)
-- [Subtitiles](#subtitles)
+- [Subtitles](#subtitles)
 - [Tools](#tools)
 - [Web](#web)
 - [Uncategorized](#uncategorized)
