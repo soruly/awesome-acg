@@ -41,6 +41,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Albireo](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
 - [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
+- [CeJS](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader.
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
 - [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file.
