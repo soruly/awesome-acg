@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China.
+- [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing.
 - [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort.
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). 
