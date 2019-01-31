@@ -47,6 +47,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
 - [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
+- [getComic](https://github.com/abcfy2/getComic) - Download tencent comic-下载腾讯漫画.
 - [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China.
 - [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing.
