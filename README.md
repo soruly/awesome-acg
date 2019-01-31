@@ -77,6 +77,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards.
 - [danbooru](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
+- [Hydron](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend.
 - [Hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites.
 - [Moebooru](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
