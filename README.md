@@ -85,6 +85,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Hydron](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend.
 - [Hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites.
 - [Moebooru](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
+- [PBooru](https://github.com/Kycklingar/PBooru) - Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 - [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags.
 
