@@ -158,6 +158,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [aeneas](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text.
 - [ASS.js](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer.
+- [dialogue.moe](https://github.com/windrises/dialogue.moe) - Search where a dialogue comes from. (Chinese)
 - [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
 - [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
 - [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組).
