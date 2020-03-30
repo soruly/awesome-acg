@@ -143,6 +143,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net).
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+- [NineAnimator](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS.
 
 ## Programming Languages
 *These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
