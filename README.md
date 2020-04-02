@@ -171,7 +171,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
 - [getnative](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime).
-- [kuroshiro.js](https://github.com/hexenq/kuroshiro.js) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
+- [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
 - [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows.
