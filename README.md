@@ -15,7 +15,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Image Recognition](#image-recognition)
 - [Image Reverse Search](#image-reverse-search)
 - [Mobile Apps](#mobile-apps)
-- [Programming Languages](#programming-languages)
+- [Programming](#programming)
 - [Subtitles](#subtitles)
 - [Tools](#tools)
 - [Web](#web)
@@ -62,6 +62,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for Anilist (https://anilist.co/).
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
+- [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
@@ -73,7 +74,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
-- [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
 
 ## Image Board
 
@@ -89,28 +89,32 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 - [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags.
 
-## Image Processing
+## Image Generation
 
 - [animate-me](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime.
-- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler.
-- [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
-- [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
-- [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
+- [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [crypko.ai](https://crypko.ai) - Cryptocollectible game on anime character icons.
 - [DeepAA](https://github.com/OsciiArt/DeepAA) - Make Ascii Arts by Deep Learning.
-- [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks.
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
-- [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
+- [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
+- [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)).
+- [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
+
+## Image Processing
+
+- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler.
+- [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
+- [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
+- [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks.
+- [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
 - [MangaCraft](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization.
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints.
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI.
-- [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)).
-- [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
 
@@ -119,8 +123,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [alt-i2v](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer.
 - [animeface-2009](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate.
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
+- [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
+- [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san.
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/174603) - Use deep learning to distinguish the characters in Osomatsu-san (part 2).
 - [transfer-learning-anime](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). 
@@ -145,12 +151,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [NineAnimator](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 
-## Programming Languages
-*These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
+## Programming
 
 - [aaencoder](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字).
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
+- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
+- [kawaii-term](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress.
 - [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
 - [We-i_lang](https://github.com/oppai/We-i_lang)
@@ -163,6 +170,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [JavascriptSubtitlesOctopus](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features.
 - [libjass](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser.
 - [SubBuilder](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組).
+- [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 - [Sushi](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio.
 
 ## Tools
@@ -185,7 +193,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects.
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv).
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo).
+- [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
+- [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
+- [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg.
+- [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
@@ -194,18 +206,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Uncategorized
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
-- [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
 - [doko.moe](https://doko.moe/) - Free file hosting and Bittorrent tracker.
-- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
-- [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library.
-- [kawaii-term](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress.
-- [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
-- [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
-- [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg.
-- [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
-- [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
-- [subsearch.madsck.com](http://subsearch.madsck.com/) - 搜尋動畫台詞出處。
 
 ## Developer Groups
 *Some chat rooms or channels of ACG-loving developers*
