@@ -11,6 +11,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Downloaders](#downloaders)
 - [Databases / Data Sources](#databases--data-sources)
 - [Image Board](#image-board)
+- [Image Generation](#image-generation)
 - [Image Processing](#image-processing)
 - [Image Recognition](#image-recognition)
 - [Image Reverse Search](#image-reverse-search)
