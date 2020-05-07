@@ -97,6 +97,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
 - [crypko.ai](https://crypko.ai) - Cryptocollectible game on anime character icons.
 - [DeepAA](https://github.com/OsciiArt/DeepAA) - Make Ascii Arts by Deep Learning.
+- [FindTwin](https://github.com/klimaleksus/FindTwin) - A pick and match game by random generated avatars.
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
