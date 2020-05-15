@@ -56,6 +56,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). 
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
+- [BooruDownloader](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru and danbooru (and other sites that use their engines)
 
 ## Databases / Data Sources
 
