@@ -42,6 +42,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Albireo](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
 - [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
+- [BooruDownloader](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines.
 - [CeJS](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader.
 - [Comic-DL](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites.
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
@@ -56,7 +57,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). 
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
-- [BooruDownloader](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines.
 
 ## Databases / Data Sources
 
