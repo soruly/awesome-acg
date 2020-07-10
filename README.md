@@ -167,6 +167,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [kawaii-term](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress.
 - [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
+- [RADWIMPS](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future.
 - [We-i_lang](https://github.com/oppai/We-i_lang)
 
 ## Subtitles
