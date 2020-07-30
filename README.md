@@ -65,6 +65,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
+- [arm-server](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu.
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
