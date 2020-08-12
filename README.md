@@ -77,6 +77,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
+- [iakesi](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼).
+- [Seiyuu.moe](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu.
+- [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF
 
 ## Image Board
 
@@ -94,6 +97,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Generation
 
+- [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook
 - [animate-me](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime.
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
