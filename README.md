@@ -80,6 +80,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [iakesi](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼).
 - [Seiyuu.moe](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu.
 - [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF
+- [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?'
 
 ## Image Board
 
@@ -128,6 +129,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints.
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
+- [upscale.wiki.anime](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime) - Image Super-Resolution model wiki
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
 
 ## Image Recognition
@@ -138,6 +140,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
+- [LFFD animeface](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD &mxnet.
 - [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san.
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/174603) - Use deep learning to distinguish the characters in Osomatsu-san (part 2).
