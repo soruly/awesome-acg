@@ -141,9 +141,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
 - [LFFD animeface](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD &mxnet.
+- [deep cascaded landmark detection](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression
 - [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san.
-- [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/174603) - Use deep learning to distinguish the characters in Osomatsu-san (part 2).
 - [transfer-learning-anime](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). 
 
 ## Image Reverse Search
@@ -221,6 +221,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
+- [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [doko.moe](https://doko.moe/) - Free file hosting and Bittorrent tracker.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
