@@ -114,6 +114,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid.
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Display random StyleGAN 2 faces.
 - [Waifu Labs](https://waifulabs.com/) - Waifu generator.
+- [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document
 
 ## Image Processing
 
@@ -131,6 +132,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [upscale.wiki.anime](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime) - Image Super-Resolution model wiki
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
+- [TachibanaYoshino AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model
 
 ## Image Recognition
 
@@ -138,6 +140,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [animeface-2009](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate.
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
+- [danbooru-tagger](https://github.com/anthony-dipofi/danbooru-tagger) - auto labeling danboorulike tags for anime illustration
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
 - [LFFD animeface](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD &mxnet.
