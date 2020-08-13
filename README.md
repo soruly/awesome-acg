@@ -65,17 +65,24 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
+- [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database
+- [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF
 - [arm-server](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu.
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
+- [cal.syoboi](https://cal.syoboi.jp) - anime bangumi(新番) timeline
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
+- [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?'
 - [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
+- [iakesi](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼).
 - [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/).
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
+- [Seiyuu.moe](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu.
+- [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
@@ -102,8 +109,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [DeepAnime](https://lp.deepanime.com/) - Generate Anime automatically from illust.
 - [FindTwin](https://github.com/klimaleksus/FindTwin) - A pick and match game by random generated avatars.
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
+- [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
+- [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document
 - [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)).
 - [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
 - [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid.
@@ -123,6 +132,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
 - [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints.
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI.
+- [TachibanaYoshino AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model
+- [upscale.wiki.anime](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime) - Image Super-Resolution model wiki
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
 
@@ -132,11 +143,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [animeface-2009](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate.
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
+- [danbooru-tagger](https://github.com/anthony-dipofi/danbooru-tagger) - auto labeling danboorulike tags for anime illustration
+- [deep cascaded landmark detection](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
+- [LFFD animeface](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD &mxnet.
 - [n_jigen_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. (author unknown)
 - [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san.
-- [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/174603) - Use deep learning to distinguish the characters in Osomatsu-san (part 2).
 - [transfer-learning-anime](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). 
 
 ## Image Reverse Search
@@ -216,6 +229,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [doko.moe](https://doko.moe/) - Free file hosting and Bittorrent tracker.
+- [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 
 ## Developer Groups
