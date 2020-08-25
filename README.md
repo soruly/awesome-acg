@@ -42,10 +42,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Downloaders
 
 ### Multi-tools
+
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
 - JDownloader?
 
 ### Universal Non-Anime Downloaders
+
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 
