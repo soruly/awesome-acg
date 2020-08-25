@@ -37,6 +37,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Danmaku](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine.
 - [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format.
 - [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player.
+- Applying this to Youtube since they started to have live comments?
 
 ## Downloaders
 
@@ -123,8 +124,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
-### Character Databade
-- - [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database
+### Character Database
+
+- [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database
+- [Personality Database](https://www.personality-database.com) - Anime Personality Assessment
+- [Waifu Database](https://mywaifulist.moe)
+- Anime Database that has info on Characters
+  - https://www.anime-planet.com/characters/asuka-langley-soryu
+  - https://anidb.net/character/39
+  - https://www.absoluteanime.com/neon_genesis_evangelion/asuka
 
 ## Image Board
 
