@@ -308,15 +308,23 @@ https://waifulabs.com/
 
 ## Programming
 
+### Code converters
+
 - [aaencoder](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字).
+- [RADWIMPS](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future.
+
+### Barainfug games
+
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
-- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
-- [kawaii-term](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress.
 - [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
 - [nyaruko_lang](https://github.com/masarakki/nyaruko_lang)
-- [RADWIMPS](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future.
 - [We-i_lang](https://github.com/oppai/We-i_lang)
+
+### Programming Utilities
+
+- [hanabi](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694).
+- [kawaii-term](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress.
 
 ## Subtitles
 
