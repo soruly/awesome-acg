@@ -154,6 +154,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards.
+- [BooruSharp](https://github.com/Xwilarg/BooruSharp)
 
 ### Booru Cache and Personal Boorus
 
