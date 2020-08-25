@@ -368,6 +368,9 @@ https://waifulabs.com/
 
 - [DJT](https://itazuraneko.neocities.org/) - The best Japanese Aids list
 - [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
+- [Yomichan](https://github.com/FooSoft/yomichan) - Japanese Dictionary Add-on for Firefox/Google with [Anki Support](https://github.com/dayjaby/yomisama)
+- [QuizMaster](https://sites.google.com/view/audio-cards-guide/)
+- [Anki](https://github.com/ankitects/anki) and [Ankidroid](https://github.com/ankidroid/Anki-Android) - For remembering vocabs, with [2K/6K/10K](https://core6000.neocities.org/) all the way up to [30K](https://ankiweb.net/shared/info/2112246396) words in a deck
 
 ### Anime Management
 
