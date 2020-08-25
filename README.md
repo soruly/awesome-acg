@@ -331,15 +331,32 @@ https://waifulabs.com/
 
 ## Tools
 
-- [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
-- [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
-- [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
-- [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
-- [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
+
+### Trackers
+
 - [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows.
+- [MALSync](https://github.com/MALSync/MALSync) - Mutli-Tracker Integration to Anime Websites.
+
+### Ranking and Recommendation
+
+- [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
+
+### Translation and Text Cleaning
+
+- [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser.
+- [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
+
+### File Conversion
+
+- [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
+
+### Japanese Aid
+
+- [DJT](https://itazuraneko.neocities.org/) - The best Japanese Aids list
+- [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
 
 ### Anime Management
 
