@@ -64,13 +64,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for Anilist (https://anilist.co/).
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database.
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga.
+- [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database.
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli.
-- [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database
-- [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF
+- [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF.
 - [arm-server](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu.
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/).
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime.
-- [cal.syoboi](https://cal.syoboi.jp) - anime bangumi(新番) timeline
+- [cal.syoboi](https://cal.syoboi.jp) - anime bangumi(新番) timeline.
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated).
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?'
@@ -81,8 +81,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
+- [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label.
 - [Seiyuu.moe](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu.
-- [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label
 - [Vocaloid Database](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/).
 
 ## Image Board
@@ -109,15 +109,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [DeepAnime](https://lp.deepanime.com/) - Generate Anime automatically from illust.
 - [FindTwin](https://github.com/klimaleksus/FindTwin) - A pick and match game by random generated avatars.
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
-- [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook
+- [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook.
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
-- [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document
+- [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document.
 - [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)).
-- [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2.
 - [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid.
-- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Synthesize Your Waifu Face using StyleGAN2 .
-- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2 .
+- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Synthesize Your Waifu Face using StyleGAN2.
+- [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
 - [Waifu Labs](https://waifulabs.com/) - Synthesize Your Waifu Face Conditionally.
 
 ## Image Processing
@@ -206,9 +206,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [kuroshiro](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
+- [Shoko](https://github.com/shokoanime) - Anime Collection Manager.
 - [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
-- [Shoko](https://github.com/shokoanime) - Anime Collection Manager
 
 ## Web
 
@@ -220,17 +220,17 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques.
 - [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg.
+- [My Diary](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」 ( build with Vue 2 ).
 - [nKemono](https://github.com/cornguo/nKemono) - Replaces all images with Kemono Friends. ([Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak))
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
 - [Pixiv Search Result Unlocker](https://github.com/soruly/Pixiv-Search-Result-Unlocker) - Allows you to click on blocked pictures.
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.
-- [My Diary](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」 ( build with Vue 2 )
 
 ## Uncategorized
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool.
 - [doko.moe](https://doko.moe/) - Free file hosting and Bittorrent tracker.
-- [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual
+- [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual.
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available.
 
 ## Developer Groups
