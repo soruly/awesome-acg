@@ -116,8 +116,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)).
 - [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
 - [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid.
-- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Display random StyleGAN 2 faces.
-- [Waifu Labs](https://waifulabs.com/) - Waifu generator.
+- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Synthesize Your Waifu Face using StyleGAN2 .
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2 .
+- [Waifu Labs](https://waifulabs.com/) - Synthesize Your Waifu Face Conditionally.
 
 ## Image Processing
 
