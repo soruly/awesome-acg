@@ -208,6 +208,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking). [English]
 - [Shoko](https://github.com/shokoanime) - Anime Collection Manager. [English]
 - [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows. [English]
+- [Visual Novel OCR](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - Calculate anime relevance from wikipedia. [日本語]
 
 ## Web
