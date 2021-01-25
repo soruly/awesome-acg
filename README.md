@@ -63,6 +63,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/). [English]
 - [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for Anilist (https://anilist.co/). [English]
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database. [日本語]
+- [anime-offline-database](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. [English]
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. [English]
 - [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database. [English]
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli. [English]
