@@ -70,6 +70,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF. [日本語]
 - [arm-server](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. [English]
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/). [English]
+- [AnimeThemes](https://animethemes.moe) - A simple and consistent repository of anime opening and ending themes. [English]
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime. [中文]
 - [cal.syoboi](https://cal.syoboi.jp) - anime bangumi timeline. [日本語]
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated). [中文]
