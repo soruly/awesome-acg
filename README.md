@@ -103,6 +103,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Generation
 
+- [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration. [English]
 - [animate-me](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime. [中文]
 - [avatars.moe](https://avatars.moe/) - Automatic avatars generator. [English]
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network. [日本語]
