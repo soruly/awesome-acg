@@ -233,6 +233,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Uncategorized
 
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. [English]
+- [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books. [English]
 - [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. [English]
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. [English]
 
