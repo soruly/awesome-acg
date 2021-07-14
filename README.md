@@ -113,6 +113,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [FindTwin](https://github.com/klimaleksus/FindTwin) - A pick and match game by random generated avatars. [English]
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)). [日本語]
 - [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook. [English]
+- [hololive-fusion-generator](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. [English]
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator. [日本語]
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I. [English]
 - [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. [中文]
