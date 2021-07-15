@@ -218,6 +218,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Web
 
 - [acgn-stock](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan). [English/中文]
+- -[AnimeXNinja](https://github.com/routayush1/animexninja) - https://github.com/routayush1/animexninja
 - [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. [中文]
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). [中文]
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo). [English]
