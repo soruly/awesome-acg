@@ -223,6 +223,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). [中文]
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo). [English]
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. [English]
+- [kalidoface](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. [English]
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. [English]
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques. [English]
 - [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg. [English]
