@@ -244,28 +244,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Developer Groups
 *Some chat rooms or channels of ACG-loving developers*
 
-- AniDevTwitter (English)
-  - https://github.com/AniDevTwitter
-  - irc://irc.rizon.net/AniDevTwitter
-  - https://twitter.com/search?q=%23AniDevTwitter
-
-- Fuyu (English)
-  - https://fuyu.moe/
-  - irc://irc.rizon.net/Fuyu  
-
-- IQDB / SauceNao (English)
-  - https://iqdb.org/
-  - irc://irc.rizon.net/iqdb
-
-- MoeOverflow (Chinese)
-  - https://moeoverflow.org/
-  - https://telegram.me/moeoverflow
-  - https://github.com/moeoverflow
-
-- MoeFront (Chinese)
-  - https://moefront.github.io/
-  - https://github.com/moefront
-
-- Project ShangriLa (Japanese)
-  - http://akibalab.info/
-  - https://github.com/Project-ShangriLa
+- [AniDevTwitter](https://github.com/AniDevTwitter) [English]
+- [Fuyu](https://fuyu.moe) [English]
+- [IQDB / SauceNAO](irc://irc.rizon.net/iqdb) [English]
+- [MoeOverflow](https://github.com/moeoverflow) [中文]
+- [MoeFront](https://github.com/moefront) [中文]
+- [Project ShangriLa](https://github.com/Project-ShangriLa) [日本語]
