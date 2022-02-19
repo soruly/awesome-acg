@@ -143,6 +143,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art. [English]
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x. [English]
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. [English/中文]
+- [WaifuCutout](https://waifucutout.com) - Image segmentation (matting) for Anime characters. [English/中文]
 
 ## Image Recognition
 
