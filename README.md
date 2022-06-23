@@ -231,6 +231,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg. [English]
 - [My Diary](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.[中文]
 - [nKemono](https://github.com/cornguo/nKemono) - [Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak) that replaces all images with Kemono Friends. [English]
+- [ojosama-web](https://github.com/jiro4989/ojosama-web) - テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. [日本語]
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. [English]
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. [English]
 
