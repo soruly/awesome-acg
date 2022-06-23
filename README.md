@@ -80,6 +80,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform. [English]
 - [iakesi](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼). [English]
 - [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/). [English]
+- [manga-platform](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. [English]
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si. [English]
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang. [English]
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python. [English/中文]
