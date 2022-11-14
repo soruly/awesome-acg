@@ -131,6 +131,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Processing
 
+- [Anime Segmentation](anime-segmentation) - High-accuracy segmentation for anime character. [English]
 - [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler. [English]
 - [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops. [English]
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. [English]
