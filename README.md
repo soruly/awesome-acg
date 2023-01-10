@@ -63,7 +63,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Databases / Data Sources
 
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/). [English]
-- [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for Anilist (https://anilist.co/). [English]
+- [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for [Anilist](https://anilist.co/). [English]
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database. [日本語]
 - [anime-offline-database](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. [English]
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. [English]
@@ -84,6 +84,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [iakesi](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼). [English]
 - [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/). [English]
 - [manga-platform](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. [English]
+- [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). [English]
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si. [English]
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang. [English]
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python. [English/中文]
