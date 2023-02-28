@@ -138,6 +138,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. [English]
 - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks. [English]
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. [English]
+- [Anime Segmentation](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character.
 - [MangaCraft](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. [English]
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online. [中文]
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. [English]
