@@ -246,6 +246,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
+- [ACG2vec](https://github.com/OysterQAQ/ACG2vec) - Various machine learning projects on ACG stuff. [中文]
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. [English]
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books. [English]
 - [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. [English]
