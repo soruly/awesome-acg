@@ -173,6 +173,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [ascii2d](http://www.ascii2d.net/) - 2D art search. [日本語]
 - [Gochiusearch](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. [日本語]
 - Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines. [English]
+- [imsearch](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). [中文]
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/). [English]
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html). [English]
 - [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO. [English]
