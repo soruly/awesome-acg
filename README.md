@@ -127,6 +127,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2. [English]
 - [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid. [English]
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Synthesize Your Waifu Face using StyleGAN2. [English]
+- [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - Generative Cartoon Interpolation. [English]
 - [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime. [English]
 - [Waifu Labs](https://waifulabs.com/) - Synthesize Your Waifu Face Conditionally. [English]
 
