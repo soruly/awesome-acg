@@ -122,6 +122,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hololive-fusion-generator](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. [English]
 - [kemonogen](https://github.com/aratama/kemonogen) - Kemono Friends logo generator. [日本語]
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I. [English]
+- [Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - A Base Model of Drawing Behaviors in Digital Paintings. [English]
 - [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. [中文]
 - [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)). [English]
 - [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2. [English]
