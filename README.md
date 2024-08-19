@@ -58,6 +58,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort. [English]
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). [English]
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). [English]
+- [waifuc](https://github.com/deepghs/waifuc) - Anime image data collector for training models. [English]
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. [English]
 
 ## Databases / Data Sources
@@ -140,6 +141,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. [English]
 - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks. [English]
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. [English]
+- [imgutils](https://github.com/deepghs/imgutils) - Image processing library with various anime-style image processing models. [English]
 - [MangaCraft](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. [English]
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online. [中文]
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. [English]
@@ -261,6 +263,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 *Some chat rooms or channels of ACG-loving developers*
 
 - [AniDevTwitter](https://github.com/AniDevTwitter) [English]
+- DeepGHS ([GitHub](https://github.com/deepghs) / [Hugging Face](https://huggingface.co/deepghs)) [English]
 - [Fuyu](https://fuyu.moe) [English]
 - [IQDB / SauceNAO](irc://irc.rizon.net/iqdb) [English]
 - [MoeOverflow](https://github.com/moeoverflow) [中文]
