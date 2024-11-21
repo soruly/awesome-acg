@@ -254,6 +254,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [ACG2vec](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. [中文/English]
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. [English]
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books. [English]
+- [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. [English/日本語]
 - [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. [English]
 - [Hime Display](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. [English/中文/日本語]
 - [marine_button](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. [日本語]
