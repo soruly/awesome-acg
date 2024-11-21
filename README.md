@@ -26,6 +26,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Audio
 
 - [0x40-web](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. [English]
+- [AivisSpeech](https://github.com/Aivis-Project) - AI Voice Imitation System - Text to Speech Software. [日本語]
 - [chiru.no](https://chiru.no/) - High quality ACG music streaming. [English]
 - [Mikutap](https://aidn.jp/mikutap/) - Interactive music mixer with Hatsune Miku. [English]
 - [moefm.sh](https://github.com/mike2718/moefm.sh) - Client script for moefm radio. [中文]
