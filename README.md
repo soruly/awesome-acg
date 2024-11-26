@@ -9,7 +9,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Audio](#audio)
 - [Danmaku](#danmaku)
 - [Downloaders](#downloaders)
-- [Databases / Data Sources](#databases--data-sources)
+- [Database APIs](#database-apis)
+- [Data Sources](#data-sources)
 - [Image Board](#image-board)
 - [Image Generation](#image-generation)
 - [Image Processing](#image-processing)
@@ -62,13 +63,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [waifuc](https://github.com/deepghs/waifuc) - Anime image data collector for training models. [English]
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. [English]
 
-## Databases / Data Sources
+## Database APIs
 
 - [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/). [English]
 - [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for [Anilist](https://anilist.co/). [English]
 - [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/). [English]
 - [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/). [English]
 - [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). [English]
+
+ ## Data Sources
+
 - [Anilogia](https://github.com/anilogia/animedb) - Anime list database. [日本語]
 - [anime-offline-database](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. [English]
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. [English]
