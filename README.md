@@ -62,6 +62,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). [English]
 - [waifuc](https://github.com/deepghs/waifuc) - Anime image data collector for training models. [English]
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. [English]
+- [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider) - Comic Downloader by simple GUI operation. [English/中文]
 
 ## Database APIs
 
