@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [BooruDownloader](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines. [English]
 - [CeJS](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader. [English/中文]
 - [Comic-DL](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites. [English]
+- [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider) - Comic downloader by simple GUI operation. [English/中文]
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/). [English]
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. [中文]
 - [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file. [English]
