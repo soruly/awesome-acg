@@ -145,6 +145,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anime Segmentation](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. [English]
 - [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler. [English]
 - [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops. [English]
+- [APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). [English]
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. [English]
 - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks. [English]
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. [English]
