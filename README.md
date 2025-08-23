@@ -78,6 +78,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [anime-offline-database](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. [English]
 - [anime-relations](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. [English]
 - [anime-streaming](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. [English]
+- [AnimeBirthdaysDataset](https://github.com/hykilpikonna/AnimeBirthdaysDataset) - Anime birthday dataset from bd.fan-web.jp. [English]
 - [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database. [English]
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli. [English]
 - [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF. [日本語]
