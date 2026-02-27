@@ -263,6 +263,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Uncategorized
 
 - [ACG2vec](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. [中文/English]
+- [AIRI](https://github.com/moeru-ai/airi) - A soul container of AI waifu / virtual characters to bring them into our world. [English/中文/日本語]
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. [English]
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books. [English]
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. [English/日本語]
