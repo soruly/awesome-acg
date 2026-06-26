@@ -61,6 +61,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort. [English]
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). [English]
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). [English]
+- [Tako Manga Downloader](https://github.com/oovz/Tako) - Browser sidepanel extension for manga/manhua/manhwa downloading with various site supports. [中文/日本語/English]
 - [waifuc](https://github.com/deepghs/waifuc) - Anime image data collector for training models. [English]
 - [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. [English]
 
