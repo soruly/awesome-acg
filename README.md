@@ -254,6 +254,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [kalidoface](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. [English]
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. [English]
 - [Kemono Adblocker](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques. [English]
+- [Konsumr](https://konsumr.com) - Free manga collection tracker with edition-level volume tracking (Standard, Deluxe, Omnibus, Box Sets), release calendar, episode-by-episode anime tracking, and AniList / MyAnimeList import. [English]
 - [MIKUFLA](https://aidn.jp/mikufla/) - Dance as Hatsune Miku yourself to the song. [日本語/English]
 - [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg. [English]
 - [My Diary](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.[中文]
