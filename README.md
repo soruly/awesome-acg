@@ -263,6 +263,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. [English]
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. [English]
 - [Yomoru](https://yomoru.com/) - Find where to continue an anime's story in the manga or light novel, then choose an edition. [English/日本語/Español/Français]
+- [かなたそ](https://search.kanataso.com/) - あの言葉、いつの配信だったかな。気になる発言を探して、その時刻の配信へ。 [日本語]
 
 ## Uncategorized
 
