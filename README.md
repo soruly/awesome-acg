@@ -261,6 +261,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [nKemono](https://github.com/cornguo/nKemono) - [Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak) that replaces all images with Kemono Friends. [English]
 - [ojosama-web](https://github.com/jiro4989/ojosama-web) - テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. [日本語]
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. [English]
+- [SeichiGo](https://seichigo.com/en/map) - Worldwide map of 50,000+ real-life anime locations across 1,500+ series, with an itinerary planner. [English/日本語/中文]
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. [English]
 - [Yomoru](https://yomoru.com/) - Find where to continue an anime's story in the manga or light novel, then choose an edition. [English/日本語/Español/Français]
 - [かなたそ](https://search.kanataso.com/) - あの言葉、いつの配信だったかな。気になる発言を探して、その時刻の配信へ。 [日本語]
