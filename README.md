@@ -250,6 +250,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. [中文]
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). [中文]
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo). [English]
+- [Gengjing](https://ai-meme.cdqyfdbymn.me/) - Meme gallery for the DeepSeek whale-chan persona, with stickers sorted by character and emotion, one-click image copy, character design sheets and mini games. [中文/English/日本語/한국어]
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. [English]
 - [kalidoface](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. [English]
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. [English]
