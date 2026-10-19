@@ -204,6 +204,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. [English]
 - [Mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android. [English]
 - [NineAnimator](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. [English]
+- [Waifu Deck](https://github.com/fancydirty/waifu-deck) - Free and open source Android anime art collection app that unifies 10 image boards into one swipe deck and syncs full originals to your own encrypted cloud. [English/中文/日本語]
 ## Programming
 
 - [aaencoder](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字). [日本語]
