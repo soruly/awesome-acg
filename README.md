@@ -274,6 +274,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books. [English]
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. [English/日本語]
 - [guide.encode.moe](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. [English]
+- [HairDeck](https://github.com/hyz317/HairDeck) - Animation-Ready Stylized Hair Cards from a Single Image. [English/中文/日本語]
 - [Hime Display](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. [English/中文/日本語]
 - [marine_button](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. [日本語]
 - [MotionPNGTuber](https://github.com/rotejin/MotionPNGTuber) - PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール. [日本語]
