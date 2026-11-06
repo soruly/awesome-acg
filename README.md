@@ -199,6 +199,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. [English]
 - [Atarashii](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/). [English]
+- [Easemic](https://github.com/dirtyfancy/easemic) - Open-source native Android comic and manga reader with local CBZ/ZIP, OPDS catalogs, and encrypted cloud storage support. [English/中文]
 - [EhViewer](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android. [中文]
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net). [English]
 - [LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. [English]
