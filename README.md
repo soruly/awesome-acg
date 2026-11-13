@@ -230,6 +230,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Tools
 
+- [AniFlow](https://github.com/aashish254/Aniflow) - Self-hosted AI studio that turns manhwa/webtoon chapters into narrated recap videos. [English]
 - [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser. [English]
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI. [English]
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI. [中文]
