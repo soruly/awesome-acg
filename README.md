@@ -159,6 +159,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer. [English]
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. [English/中文]
 - [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. [日本語]
+- [RuneManga](https://runemanga.com) - AI translator for manga, manhwa and webtoons that erases the original text and letters the translation into the speech bubbles. [English/日本語/中文/한국어]
 - [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints. [English]
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI. [English]
 - [TachibanaYoshino AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model [English]
