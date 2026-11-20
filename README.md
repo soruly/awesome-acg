@@ -90,6 +90,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [cal.syoboi](https://cal.syoboi.jp) - anime bangumi timeline. [日本語]
 - [Dhufufu](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated). [中文]
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler. [中文]
+- [FillerLists](https://fillerlists.com/data) - Open JSON and CSV dataset of filler, mixed, anime-canon and canon episode labels for 13 long-running anime, mapped to TVDB, TMDB, IMDb, TVmaze and Wikidata IDs. [English]
 - [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?' [English]
 - [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG. [中文]
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform. [English]
