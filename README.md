@@ -250,6 +250,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. [中文]
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). [中文]
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo). [English]
+- [FictionCom](https://fictioncom.pages.dev) - Free community for anime and manga fans to share theories, discuss episodes and chapters with spoiler labels, and post fan art and stories. [English]
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. [English]
 - [kalidoface](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. [English]
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. [English]
