@@ -249,6 +249,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [AITuberKit](https://github.com/tegnike/aituber-kit) - AITuber Kit. [日本語/English/中文]
 - [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. [中文]
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). [中文]
+- [cv.cm Tests](https://cv.cm/en/tests/) - Free anime character quizzes (Naruto, One Piece, Haikyuu!!, Jujutsu Kaisen, Demon Slayer, Sailor Moon and more) that score in the browser, with no sign-up. [English/中文/日本語/한국어]
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo). [English]
 - [japari-pedia](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. [English]
 - [kalidoface](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. [English]
